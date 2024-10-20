@@ -21,7 +21,12 @@ En el ámbito de la industria, especialmente en el servicio gastronómico, exist
 
 Así nace este proyecto, que busca generar información valiosa a partir de las opiniones publicadas en la web, enfocándonos en plataformas como **Yelp** y **Google Maps**. Además, trabajamos en un nicho específico del mercado gastronómico que nos indique el cliente.
 
-<img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Logo del Proyecto" width="500" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Logo del Proyecto" width="500">
+</p>
+
+
+
 
 <img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Texto alternativo" width="500" />
 
