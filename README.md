@@ -23,6 +23,8 @@ Así nace este proyecto, que busca generar información valiosa a partir de las 
 
 ![Yelp](https://blog.reviewpoint.com/hubfs/customer_review_tips.png)
 
+<img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Texto alternativo" width="500" />
+
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
 ## Desarrollo del proyecto
