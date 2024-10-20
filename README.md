@@ -4,10 +4,10 @@
 ## Índice
 
 1. [Introducción](#Integrantes)
-2. [Introduccion a StarSight](#Introducción_a_StarSight)
-3. [Conclusión](#conclusión)
-
----
+2. [Introduccion a StarSight](#Introducción a StarSight)
+3. [Desarrollo del proyecto](#Desarrollo del proyecto)
+4. [Lo que Hacemos](#Lo que Hacemos)
+5. [Nuestro Modelo](#Nuestro Modelo)
 
 ## Integrantes
 - María José Grecco
