@@ -3,7 +3,7 @@
 
 ## Índice
 
-1. [Introducción](#Integrantes)
+1. [Integrantes](#Integrantes)
 2. [Introduccion a StarSight](#Introducción-a-StarSight)
 3. [Desarrollo del proyecto](#Desarrollo-del-proyecto)
 4. [Lo que Hacemos](#Lo-que-Hacemos)
