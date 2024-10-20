@@ -32,7 +32,7 @@ Para ser más concretos, hemos definido y acotado una base de datos para un aná
 
 ## Desarrollo del proyecto
 
-![desarrollo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+![desarrollo](https://netlok.com/wp-content/uploads/egencia-business-travel-banner-solutions.jpg)
 
 
 Comenzamos identificando las diferentes problemáticas que enfrenta la industria gastronómica con servicio directo al consumidor final. Algunos puntos clave a tener en cuenta son:
