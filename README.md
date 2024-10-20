@@ -20,6 +20,8 @@
 En el ámbito de la industria, especialmente en el servicio gastronómico, existe una gran cantidad de negocios que dependen en gran medida de las reseñas de los usuarios en internet. Esto nos abre las puertas a un uso potencial de la información para mejorar sus establecimientos.
 
 Así nace este proyecto, que busca generar información valiosa a partir de las opiniones publicadas en la web, enfocándonos en plataformas como **Yelp** y **Google Maps**. Además, trabajamos en un nicho específico del mercado gastronómico que nos indique el cliente.
+![Yelp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxYtPD3KiMhgDHWaIOe3-ywUHYb6m9Vmuaw&s)
+![GoogleMaps](https://i0.wp.com/folou.co/wp-content/uploads/2020/02/googlemaps-15.jpg?fit=1200%2C675&ssl=1)
 
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
