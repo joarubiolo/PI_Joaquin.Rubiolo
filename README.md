@@ -57,6 +57,10 @@ Nuestro equipo tiene la capacidad de generar un análisis detallado de muchos fa
   
 Desarrollamos un modelo basado en estos puntos clave para optimizar el negocio y evitar gastos innecesarios.
 
+<p align="center">
+  <img src="./grafico.jpg" alt="Logo del Proyecto" width="500">
+</p>
+
 ![Starsight](./grafico.jpg)
 
 ![Starsight](./mapa_page-0001.jpg)
