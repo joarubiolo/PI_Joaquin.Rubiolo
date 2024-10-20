@@ -9,6 +9,8 @@
 4. [Lo que Hacemos](#Lo-que-Hacemos)
 5. [Nuestro Modelo](#Nuestro-Modelo)
 
+![Starsight](./starsight.jpg)
+
 ## Integrantes
 - María José Grecco
 - Esteban Parron
