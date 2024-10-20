@@ -20,8 +20,8 @@
 En el ámbito de la industria, especialmente en el servicio gastronómico, existe una gran cantidad de negocios que dependen en gran medida de las reseñas de los usuarios en internet. Esto nos abre las puertas a un uso potencial de la información para mejorar sus establecimientos.
 
 Así nace este proyecto, que busca generar información valiosa a partir de las opiniones publicadas en la web, enfocándonos en plataformas como **Yelp** y **Google Maps**. Además, trabajamos en un nicho específico del mercado gastronómico que nos indique el cliente.
-![Yelp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxYtPD3KiMhgDHWaIOe3-ywUHYb6m9Vmuaw&s)
-![GoogleMaps](https://www.lavanguardia.com/andro4all/hero/2024/06/problemas-con-google-maps-en-android-auto-esto-es-lo-que-debes-hacer-si-la-app-se-cierra-sola.jpg?width=768&aspect_ratio=16:9&format=nowebp)
+
+![Yelp](https://blog.reviewpoint.com/hubfs/customer_review_tips.png)
 
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
