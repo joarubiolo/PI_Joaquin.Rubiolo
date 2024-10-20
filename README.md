@@ -31,6 +31,10 @@ Así nace este proyecto, que busca generar información valiosa a partir de las 
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
 ## Desarrollo del proyecto
+
+![desarrollo](https://redgrafica.com/wp-content/uploads/2024/05/Grupo-de-Desarrollo-de-Software-trabajo-en-equipo-mesa-redonda.-Ilustracion.-Concept-art.png)
+
+
 Comenzamos identificando las diferentes problemáticas que enfrenta la industria gastronómica con servicio directo al consumidor final. Algunos puntos clave a tener en cuenta son:
 
 - **Análisis de la percepción del cliente**: Interpretación de las impresiones que adquiere el usuario sobre la calidad, servicio u otros aspectos del negocio.
