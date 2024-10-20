@@ -61,14 +61,25 @@ Desarrollamos un modelo basado en estos puntos clave para optimizar el negocio y
   <img src="./grafico.jpg" alt="Logo del Proyecto" width="500">
 </p>
 
-![Starsight](./mapa_page-0001.jpg)
+<p align="center">
+  <img src="./mapa_page-0001.jpg" alt="Logo del Proyecto" width="800">
+</p>
 
 
 ## Nuestro Modelo
 Nuestra base de datos principal proviene de **Yelp** y **Google Maps**. A partir de esta, realizamos un **Análisis de Datos Exploratorio (EDA)** en el que identificamos las variables más relevantes dentro de los comentarios publicados, utilizando librerías como **Pandas** y **Numpy**.
 
-![pandasnumpy](https://miro.medium.com/v2/resize:fit:600/1*QGEdhXzbCJsx6w2eeEWISg.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*QGEdhXzbCJsx6w2eeEWISg.png" alt="Logo del Proyecto" width="500">
+</p>
 
 El análisis proporciona una visión general del dataset, el cual es limpiado y procesado para obtener métricas básicas. Luego, identificamos factores de interés para profundizar en su análisis. Finalmente, visualizamos los resultados a través de gráficos en **Power BI**. También utilizamos **AWS** para facilitar la disponibilidad de nuestros archivos y automatizar la carga de datos.
 
-![biaws](https://chartexpo.com/blog/wp-content/uploads/2024/09/power-bi-and-aws.jpg)
+<p align="center">
+  <img src="https://chartexpo.com/blog/wp-content/uploads/2024/09/power-bi-and-aws.jpg" alt="Logo del Proyecto" width="500">
+</p>
+
+
+
+
+
