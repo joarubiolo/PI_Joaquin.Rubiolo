@@ -46,6 +46,9 @@ Comenzamos identificando las diferentes problemáticas que enfrenta la industria
 Utilizamos diversas herramientas para abordar estas dificultades, considerando factores del mercado actual, y buscando oportunidades para fortalecer el negocio y evitar amenazas de la competencia.
 
 ## Lo que Hacemos
+
+![trabajo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+
 Nuestro equipo tiene la capacidad de generar un análisis detallado de muchos factores dentro de su nicho de mercado. A continuación, mencionamos nuestros aspectos más importantes:
 
 - **Análisis completo** basado en los comentarios y opiniones de los usuarios en plataformas populares como Yelp y Google Maps.
