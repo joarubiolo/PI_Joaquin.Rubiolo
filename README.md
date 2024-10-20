@@ -13,6 +13,7 @@
 
 
 ## Integrantes
+
 - María José Grecco
 - Esteban Parron
 - Santiago Mejía
@@ -20,6 +21,7 @@
 - Luis Gonzales
 
 ## Introducción a StarSight
+
 En el ámbito de la industria, especialmente en el servicio gastronómico, existe una gran cantidad de negocios que dependen en gran medida de las reseñas de los usuarios en internet. Esto nos abre las puertas a un uso potencial de la información para mejorar sus establecimientos.
 
 Así nace este proyecto, que busca generar información valiosa a partir de las opiniones publicadas en la web, enfocándonos en plataformas como **Yelp** y **Google Maps**. Además, trabajamos en un nicho específico del mercado gastronómico que nos indique el cliente.
@@ -47,8 +49,6 @@ Utilizamos diversas herramientas para abordar estas dificultades, considerando f
 
 ## Lo que Hacemos
 
-![trabajo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
-
 Nuestro equipo tiene la capacidad de generar un análisis detallado de muchos factores dentro de su nicho de mercado. A continuación, mencionamos nuestros aspectos más importantes:
 
 - **Análisis completo** basado en los comentarios y opiniones de los usuarios en plataformas populares como Yelp y Google Maps.
@@ -60,8 +60,6 @@ Desarrollamos un modelo basado en estos puntos clave para optimizar el negocio y
 <p align="center">
   <img src="./grafico.jpg" alt="Logo del Proyecto" width="500">
 </p>
-
-![Starsight](./grafico.jpg)
 
 ![Starsight](./mapa_page-0001.jpg)
 
