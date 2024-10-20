@@ -54,6 +54,8 @@ Nuestro equipo tiene la capacidad de generar un análisis detallado de muchos fa
 - **Análisis completo** basado en los comentarios y opiniones de los usuarios en plataformas populares como Yelp y Google Maps.
 - **Identificación de tendencias** de crecimiento o caídas en el sector gastronómico.
 - **Propuesta de las mejores ubicaciones** para nuevos negocios.
+
+
   
 Desarrollamos un modelo basado en estos puntos clave para optimizar el negocio y evitar gastos innecesarios.
 
