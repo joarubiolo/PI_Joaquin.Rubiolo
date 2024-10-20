@@ -21,7 +21,7 @@ En el ámbito de la industria, especialmente en el servicio gastronómico, exist
 
 Así nace este proyecto, que busca generar información valiosa a partir de las opiniones publicadas en la web, enfocándonos en plataformas como **Yelp** y **Google Maps**. Además, trabajamos en un nicho específico del mercado gastronómico que nos indique el cliente.
 ![Yelp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxYtPD3KiMhgDHWaIOe3-ywUHYb6m9Vmuaw&s)
-![GoogleMaps]([https://i0.wp.com/folou.co/wp-content/uploads/2020/02/googlemaps-15.jpg?fit=1200%2C675&ssl=1](https://www.lavanguardia.com/andro4all/hero/2024/06/problemas-con-google-maps-en-android-auto-esto-es-lo-que-debes-hacer-si-la-app-se-cierra-sola.jpg?width=768&aspect_ratio=16:9&format=nowebp))
+![GoogleMaps](https://www.lavanguardia.com/andro4all/hero/2024/06/problemas-con-google-maps-en-android-auto-esto-es-lo-que-debes-hacer-si-la-app-se-cierra-sola.jpg?width=768&aspect_ratio=16:9&format=nowebp)
 
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
