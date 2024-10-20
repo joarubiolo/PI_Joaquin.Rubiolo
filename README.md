@@ -1,6 +1,8 @@
 ![SoyHenry](https://blog.soyhenry.com/content/images/2021/02/HEADER-BLOG-NEGRO-01.jpg)
 # Proyecto Final Henry - StarSight
 
+![Starsight](./starsight.jpg)
+
 ## Índice
 
 1. [Integrantes](#Integrantes)
@@ -9,7 +11,6 @@
 4. [Lo que Hacemos](#Lo-que-Hacemos)
 5. [Nuestro Modelo](#Nuestro-Modelo)
 
-![Starsight](./starsight.jpg)
 
 ## Integrantes
 - María José Grecco
