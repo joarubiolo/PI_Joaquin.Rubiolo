@@ -32,7 +32,7 @@ Para ser más concretos, hemos definido y acotado una base de datos para un aná
 
 ## Desarrollo del proyecto
 
-![desarrollo](https://redgrafica.com/wp-content/uploads/2024/05/Grupo-de-Desarrollo-de-Software-trabajo-en-equipo-mesa-redonda.-Ilustracion.-Concept-art.png)
+![desarrollo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 
 
 Comenzamos identificando las diferentes problemáticas que enfrenta la industria gastronómica con servicio directo al consumidor final. Algunos puntos clave a tener en cuenta son:
