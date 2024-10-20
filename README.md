@@ -25,11 +25,6 @@ Así nace este proyecto, que busca generar información valiosa a partir de las 
   <img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Logo del Proyecto" width="500">
 </p>
 
-
-
-
-<img src="https://blog.reviewpoint.com/hubfs/customer_review_tips.png" alt="Texto alternativo" width="500" />
-
 Para ser más concretos, hemos definido y acotado una base de datos para un análisis más preciso, con el fin de extraer información relevante que potencie su negocio y proporcione una solución certera y confiable.
 
 ## Desarrollo del proyecto
